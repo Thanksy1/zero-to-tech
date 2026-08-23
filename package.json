@@ -22,5 +22,8 @@
   "homepage": "https://github.com/Thanksy1/zero-to-tech#readme",
   "devDependencies": {
     "vite": "^8.2.2"
+  },
+  "dependencies": {
+    "animejs": "^4.5.0"
   }
 }
